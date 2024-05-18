@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90729990051",
+    "project_id": "resortseeker-etr-mad",
+    "storage_bucket": "resortseeker-etr-mad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90729990051:android:b5857fde4f042ded06bc16",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_etr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0xT35dtEicpFH0tZZUtL3uBdh8cpGelQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
